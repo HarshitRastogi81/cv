@@ -1,0 +1,134 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+h1 {
+  margin: 100px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.profile{
+  width: 30%;
+  margin: 100px auto;
+}
+.subtitle {
+  margin: 20px auto;
+  font-weight: normal;
+}
+
+.line {
+  text-decoration: underline;
+}
+.line2{
+  width: 3%;
+  border-style: none none dotted;
+  border-width: 5px;
+  color: #ced9d9;
+}
+.profile-pic{
+  height: 300px;
+}
+.top-container {
+  background-color: #CDF0EA;
+  padding-top: 100px;
+  position: relative;
+  border-radius: 100px;
+}
+.skills{
+  margin: 100px auto;
+}
+.skill-image1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-image2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-image3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.lower-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.upper-cloud {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 200%;
+}
+.contact-me{
+  width: 30%;
+  margin: 100px auto;
+
+}
+.contact-tab{
+  padding: 5px 0;
+  border-radius: 10px;
+  margin: 50px auto;
+  width: 30%;
+  background-color: #66BFBF;
+}
+.btn{
+  text-decoration: none;
+  color: white;
+}
+.contact-tab:hover{
+  background-color: #5eebeb;
+}
+.bottom-container{
+  padding: 50px 0 20px;
+  margin: 0;
+  background-color: #66BFBF;
+}
+.footer-link {
+  padding: 20px 40px;
+  text-decoration: none;
+  color: #11999E;
+}
+.insta{
+  height: 30px;
+  width: 30px;
+  border-radius: 8px;
+}
+.insta:hover{
+  background-color: #5eebeb;
+}
+.twitter{
+  height: 30px;
+  width: 30px;
+  border-radius: 8px;
+}
+.twitter:hover{
+  background-color: #5eebeb;
+}
+.copyright{
+  font-size: 70%;
+}
